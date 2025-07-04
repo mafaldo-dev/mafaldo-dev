@@ -28,16 +28,6 @@
   <img align="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 </div><br/>
 
----
-
-### 🕹️ Snake Commits (game)
-
-<div align="center">
-  <b>Veja meu Snake Game com commits do GitHub!</b><br />
-  <a href="https://github.com/mafaldo-dev/github-snake">
-    <img alt="Snake animation" src="https://github.com/mafaldo-dev/github-snake/raw/output/github-contribution-grid-snake.svg" />
-  </a>
-</div>
 
 ---
 
