@@ -52,7 +52,7 @@ Se quiser conversar sobre tecnologia, colaborar em projetos open source ou apena
 ### 🚩 Projetos em Destaque
 
 - **GUIMAN** (sistema integrado)
-- **my-site** ([guilherme-developer.vercel.app](https://guilherme-developer.vercel.app))
+- **meu site** ([guilherme-developer.vercel.app](https://guilherme-developer.vercel.app))
 - **nexuEarth engine** ([nexuEarth.vercel.app](https://nexuearth.vercel.app/))
 
 ---
