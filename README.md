@@ -35,7 +35,7 @@
 
 Sou Guilherme Mafaldo, um desenvolvedor fullstack apaixonado por transformar ideias em soluções digitais inovadoras. Tenho sólida experiência tanto no front-end quanto no back-end, atuando com tecnologias como Typescript, React, Next.js, Tailwind CSS, C#, .NET, PostgreSQL, Rust, Python e JavaScript.
 
-Atualmente, sou o principal desenvolvedor do motor de busca **nexuEarth** e do sistema integrado **GUIMAN**, além de manter meu portfólio pessoal atualizado. Minha paixão vai além do código: adoro músicas, videogames, dar risada e encarar desafios que exigem criatividade e raciocínio lógico.
+Atualmente,  estou desenvolvendo um sistema integrado **GUIMAN**,  Minha paixão vai além do código: adoro músicas, videogames, dar risada e encarar desafios que exigem criatividade e raciocínio lógico.
 
 Acredito que a tecnologia é uma poderosa ferramenta para impactar positivamente a vida das pessoas e das empresas. Por isso, busco sempre aprender algo novo, acompanhar tendências e me aprofundar em soluções complexas, sempre com bom humor, colaboração e entusiasmo.
 
@@ -53,7 +53,6 @@ Se quiser conversar sobre tecnologia, colaborar em projetos open source ou apena
 
 - **GUIMAN** (sistema integrado)
 - **meu site** ([guilherme-developer.vercel.app](https://guilherme-developer.vercel.app))
-- **nexuEarth engine** ([nexuEarth.vercel.app](https://nexuearth.vercel.app/))
 
 ---
 
