@@ -51,7 +51,7 @@ Se quiser conversar sobre tecnologia, colaborar em projetos open source ou apena
 
 ### 🚩 Projetos em Destaque
 
-- **GUIMAN** (sistema integrado)
+- **KONÉXUS** (ERP sistema integrado)
 - **meu site** ([guilherme-developer.vercel.app](https://guilherme-developer.vercel.app))
 
 ---
