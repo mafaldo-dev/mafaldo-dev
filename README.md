@@ -52,14 +52,14 @@ Se quiser conversar sobre tecnologia, colaborar em projetos open source ou apena
 ### 🚩 Projetos em Destaque
 
 - **KONÉXUS** (ERP sistema integrado)
-- **meu site** ([guilherme-developer.vercel.app](https://guilherme-developer.vercel.app))
+- **meu site** ([guimansystem.com.br](https://guimansystem.com.br))
 
 ---
 
 ### 🌐 Contatos
 
 - [LinkedIn](https://linkedin.com/in/guimafaldo)
-- [Meu site](https://guilherme-developer.vercel.app)
+- [whatsapp]("11"9-1972-6405)
 
 <br />
 
